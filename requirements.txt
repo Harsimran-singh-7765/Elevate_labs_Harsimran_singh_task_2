@@ -4,3 +4,4 @@ matplotlib
 missingno
 plotly
 ipykernel
+nbformat
